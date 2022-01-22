@@ -34,5 +34,5 @@ button.addEventListener("click", () => {
             newdiv.style.opacity = "0.2";
         }
 
-    };
-})
+    }
+});
