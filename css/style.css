@@ -16,12 +16,3 @@
      box-sizing: border-box;
      font-size: 16px;
  }
-
-#numberbox{
-    width: 100%;
-    height: auto;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-flow: row wrap;
-}
